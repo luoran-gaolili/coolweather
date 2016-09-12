@@ -1,6 +1,6 @@
 package model;
 
-//城市的实体类
+//鍩庡競绠＄悊鐨勫疄浣撶被
 public class City {
 	private int id;
 	private String cityName;
@@ -16,7 +16,6 @@ public class City {
 		return id;
 	}
 
-	// 字段
 	public void setId(int id) {
 		this.id = id;
 	}
