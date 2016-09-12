@@ -1,5 +1,6 @@
 package model;
 
+//城市的实体类
 public class City {
 	private int id;
 	private String cityName;

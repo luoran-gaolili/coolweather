@@ -1,5 +1,6 @@
 package model;
 
+//国家的实体类
 public class County {
 	private int id;
 	private String countyName;
