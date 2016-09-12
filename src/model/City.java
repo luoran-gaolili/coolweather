@@ -16,6 +16,7 @@ public class City {
 		return id;
 	}
 
+	// ×Ö¶Î
 	public void setId(int id) {
 		this.id = id;
 	}
